@@ -10,7 +10,7 @@ It seems, there are different models, M18ST05A and M18ST05B.
 I don't know about differences yet.
 
 # Pinout / Hardware connections #
-![Pinout](pinout.png)
+![Pinout](pinout.jpg)
 
 # Build it #
 Go to linux-c folder and simply type make. 
@@ -33,7 +33,7 @@ This program is in a very early stage of development and may be buggy.
 It does not cover all the functions provided by this display.
 
 # Pictures #
-![TwoDisplays](2displays.png)
+![TwoDisplays](2displays.jpg)
 
 
 # Links #
